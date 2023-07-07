@@ -1,1 +1,12 @@
 Gomez Guillermo
+¿Qué es git y para qué sirve?
+
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del 
+proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente
+funcionales permiten trabajar sin conexión o de forma remota con facilidad
+
+¿Para qué sirve? ¿Y cómo crees que va a ayudarte en programación?
+
+Github es un servicio en la nube que permite a los desarrolladores y desarrolladoras almacenar y 
+aministrar su código, de esta forma me ayudará a llevar el registro y control de cualquier cambio
+que yo realice sobre este código de forma remota.
